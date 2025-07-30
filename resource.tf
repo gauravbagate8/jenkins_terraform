@@ -38,3 +38,4 @@ resource "aws_instance" "test2" {
 resource "aws_s3_bucket" "s3test" {
   bucket = "my-tf-sds-bucket"
 }
+#testing the code changes
